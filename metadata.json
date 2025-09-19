@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "A real-time, AI-powered phishing detection system that analyzes URLs for potential threats before you visit them, providing a detailed risk assessment to keep you safe online.",
+  "requestFramePermissions": []
+}
